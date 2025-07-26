@@ -1,0 +1,44 @@
+@import "./styles/_variables.scss";
+@import "./styles/_keyframe-animations.scss";
+@import "./styles/main.css";
+
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap");
+
+:root {
+  background: transparent;
+  outline: none;
+  border: none;
+  padding: 0;
+  margin: 0;
+
+  font-family: "Inter", system-ui, Avenir, Helvetica, Arial, sans-serif;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+  --background: #393939;
+  --text: #b9b9b9;
+  --selection: #4a4a4a;
+
+  --panel-bg: #2d2d2d;
+  --panel-border: #3e3e3e;
+  --panel-shadow: #292929;
+
+  --button-bg: #414141;
+  --button-border: #616161;
+  --button-glow: #525252;
+  --button-icon-inactive: #6f6f6f;
+  --button-icon-active: #fefefe;
+
+  --blockquote-border: #5c5c5c;
+}
+
+body {
+  background-color: var(--background);
+  color: var(--text);
+}
+
+::selection {
+  background-color: var(--selection);
+  color: var(--text);
+}
