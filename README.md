@@ -8,9 +8,9 @@ It supports various formatting options like bold, italic, strike-through, code b
 ## 🚀 Features
 
 - **Browser app** allowing you to use it on Windows, macOS, and Linux, easily usable in the browser.
-- **Lightweight** minimalist user inserface with a simple UI and feature-set, so you can edit text quickly.
+- **Lightweight** minimalist user interface with a simple UI and feature-set, so you can edit text quickly.
 - **Advanced Text Formatting** including bold, italic, strikethrough, text-align, ordered and unordered lists, code blocks, block quotes, undo, and redo.
-- **Keyboard Shortcuts** for commoon text editing actions, like bold, italic, underline, undo, redo. etc.
+- **Keyboard Shortcuts** for common text editing actions, like bold, italic, underline, undo, redo. etc.
 
 ## 🛠️ Technologies Used
 
